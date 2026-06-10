@@ -1,0 +1,18 @@
+{
+  "name": "bot-report-abdy",
+  "version": "1.0.0",
+  "description": "Bot report Telegram dengan fitur email blast",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemailer": "^6.9.13",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
+
