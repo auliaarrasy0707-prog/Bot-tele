@@ -23,8 +23,8 @@ const nodemailer = require("nodemailer");
 })();
 
 // ---- Konfigurasi Token & Owner ----
-const BOT_TOKEN = "8761402418:AAHsu-ID4eldEv5vYS5Q19VWByrldkObUFw";
-const OWNER_ID = 1084723308;
+const BOT_TOKEN = "8616785901:AAEgqbX2P2DQNAzqf8PO-SBD2yWVGqwdYw8";
+const OWNER_ID = 7482623335;
 
 // ---- Daftar Target Email (TERBARU) ----
 const TARGET_EMAILS = [
